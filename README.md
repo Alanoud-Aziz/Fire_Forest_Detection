@@ -1,6 +1,9 @@
 # Fire_Forest_Detection
 
+
 ### Deep Learning Extra project 
+
+![fire](https://user-images.githubusercontent.com/90136594/146607525-0c10f10e-86d9-4b6b-a893-653f1880f486.JPG)
 
 Wildfire conditions are becoming more extreme and increasingly reflect rising global temperatures.
 
